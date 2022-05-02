@@ -1,3 +1,6 @@
+#یک تسک منیجر ری اکتی!
+این برنامه به صورت مستقل است (سرور ندارد). همچنین در این پروژه از ریداکس و تیلویند استفاده شده است.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
